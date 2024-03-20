@@ -1,0 +1,51 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    python_version: 3.11.5
+    cli_version: 0.16.3
+    framework: xgboost
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    start_time: 1709943875.391917
+    t:
+      1:
+      - 1
+      - 5
+      - 6
+      - 35
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 6
+      - 35
+      - 53
+      - 55
+      3:
+      - 2
+      - 13
+      - 23
+      4: 3.11.5
+      5: 0.16.3
+      8:
+      - 3
+      - 5
+      13: windows-amd64
+kernel:
+  desc: null
+  value: rbf
+C:
+  desc: null
+  value: 12.18557372229282
+epsilon:
+  desc: null
+  value: 0.02104394965996996
+tol:
+  desc: null
+  value: 0.00016709070361758333
+gamma:
+  desc: null
+  value: 0.30291982310289417

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "C:\Users\Ludwig\python code\fps_prj\main.py", line 82, in <module>
+    cv_task(0.8)
+  File "C:\Users\Ludwig\python code\fps_prj\main.py", line 53, in cv_task
+    p_trn = y_scaler.transform_rev(p[trn_idx])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ludwig\python code\fps_prj\scaler.py", line 69, in transform_rev
+    for i in range(X.shape[1]):
+                   ~~~~~~~^^^
+IndexError: tuple index out of range
